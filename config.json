@@ -9,7 +9,6 @@
     "preferences": {
         "theme": "dark",
         "language": "en-US",
-        "autoUpdate": true,
         "checkForUpdatesOnLaunch": true
     },
     "window": {
