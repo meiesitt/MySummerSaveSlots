@@ -1,0 +1,29 @@
+{
+    "appName": "MySummerSaveSlots",
+    "version": "100",
+    "schemaVersion": 1,
+    "description": "Configuration file for MySummerSaveSlots - manages save slot behavior and UI preferences.",
+    "license": "MIT",
+    "createdAt": "2025-11-06T00:00:00Z",
+    "updatedAt": "2025-11-06T00:00:00Z",
+    "preferences": {
+        "theme": "dark",
+        "language": "en-US",
+        "autoUpdate": true,
+        "checkForUpdatesOnLaunch": true
+    },
+    "window": {
+        "width": 500,
+        "height": 400,
+        "x": 100,
+        "y": 100,
+        "isMaximized": false
+    },
+    "save": {
+        "maxSaveSizeMB": 50
+    },
+    "advanced": {
+        "enableDebugLogs": false,
+        "logFile": "./logs/app.log"
+    },
+}
