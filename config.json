@@ -21,9 +21,5 @@
     },
     "save": {
         "maxSaveSizeMB": 50
-    },
-    "advanced": {
-        "enableDebugLogs": false,
-        "logFile": "./logs/app.log"
     }
 }
