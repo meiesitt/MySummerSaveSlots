@@ -8,4 +8,3 @@
 # Modules
 import json
 from tkinter import messagebox as msgbox
-
