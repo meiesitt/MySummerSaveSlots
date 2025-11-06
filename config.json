@@ -25,5 +25,5 @@
     "advanced": {
         "enableDebugLogs": false,
         "logFile": "./logs/app.log"
-    },
+    }
 }
